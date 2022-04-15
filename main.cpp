@@ -1,7 +1,7 @@
 
 #include <iostream>
 
-#include "behavoir/Behavoir.h"
+#include "Timings/Timings.h"
 
 
 int main()
