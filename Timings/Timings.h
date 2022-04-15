@@ -1,8 +1,17 @@
 #pragma once
 
-#include "../Globals.h"
+#include <Windows.h>
+#include <iostream>
+#include <TlHelp32.h>
+#include <string>
+#include <vector>
+#include <memory>
+#include <map>
+#include <xiosbase>
+#include <vector>
 
-// This header file contains the behavouir detection. 
+//Behavoir/timings/timings.h
+// This header file contains the timings check  behavouir detection. 
 
 
 //Time based check
