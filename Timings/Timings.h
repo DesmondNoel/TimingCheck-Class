@@ -18,7 +18,7 @@
 
 
 
-inline std::map<int, int> IDToTimeMap{ {1, 120}, };  // ID TO TIME ALLOWED TO TAKE MAP 
+inline std::map<int, int> IDToTimeMap{ {1, 120}, };  // ID TO TIME ALLOWED TO TAKE MAP  TIME IN MS SO IT'S 120 MS
 
 // https://en.cppreference.com/w/cpp/container/map
 
@@ -38,7 +38,7 @@ class TimerBehavoirCheck
 	int CallId = 0;
 	int TimerStart = 0;
 	void HandleTiming();
-//	void SendTiming();
+//	void SendTiming(); 
 
 
 public:
