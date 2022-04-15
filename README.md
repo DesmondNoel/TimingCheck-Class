@@ -13,3 +13,5 @@ Why was it released?
 
 
 This was originally used by me to detect debuggers by checking code execution times. It can be falsed by lag but you can control this by putting unrealistic values within the map.
+
+discord: DesmondNoel#6630
